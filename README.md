@@ -19,4 +19,4 @@ Under the Year/CampaignsCodeName/DesignerName/YourFiles
   Under the Year/EventName-CityName/DesignerName/YourFiles
     (event can be replace by icon or logo)
   
-Note:Make sure the everything is in high quality. Please Submit the content designed using Open Source tools.
+Note:Make sure the everything is in high quality. Please Submit the content designed using Open Source tools and purely designed by you.
